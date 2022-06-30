@@ -64,4 +64,7 @@
  #article .aboutcontainer {
    grid-template-columns: 1fr;
  }
+ #showcasearea{
+  height: 70vh;
+ }
 }
